@@ -1,0 +1,22 @@
+{
+  "name": "micro-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "up": "docker compose up -d 'host' 'app1' 'app2'",
+    "down": "docker compose down"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elrick85/micro-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elrick85/micro-react/issues"
+  },
+  "homepage": "https://github.com/elrick85/micro-react#readme"
+}
